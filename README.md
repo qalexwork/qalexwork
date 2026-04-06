@@ -50,7 +50,7 @@ Also actively mentored Junior and Middle QA engineers.
 
 ### Uber (Apr 2020 – Jan 2023)
 
-- Reduced regression time by ~10 hours via scalable automation framework  
+- Reduced regression time by ~16 hours via scalable automation framework  
 - Increased automation coverage from 12.4% to 85.3%  
 - Implemented quality gates for release stability  
 - Introduced code style & pre-commit hooks (**-80% formatting time**)  
