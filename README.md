@@ -63,8 +63,10 @@ Also actively mentored Junior and Middle QA engineers.
 
 ## Education
 
-Bauman Moscow State Technical University (BMSTU)  
-Bachelor’s Degree (2018–2022)
+BAUMAN MOSCOW STATE TECHNICAL UNIVERSITY, MOSCOW — BACHELOR, 2018–2022 
+Artificial Intelligence Engineering
+ITMO UNIVERSITY, ST. PETERSBURG — MASTER, 2022 - 2024
+Software Development
 
 ---
 
