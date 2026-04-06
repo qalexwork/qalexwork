@@ -2,7 +2,7 @@
 Automation QA Engineer (SDET) • 6+ years experience  
 GMT+3  
 
-📩 qalexwork@gmail.com  
+📩 E-mail: qalexwork@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/qalexme  
 💬 Telegram: @qalexme  
 
